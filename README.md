@@ -12,7 +12,7 @@ A dynamic card display application built with React, showcasing a simple interfa
 
 ## Screenshots
 
-[Main Page](img.png)
+![Main Page](img.png)
 
 ## Getting Started
 
