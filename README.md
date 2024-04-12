@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-Navigate to `http://localhost:3000` to view the app in action.
+Navigate to `http://localhost:5173` to view the app in action.
 
 ## Available Scripts
 
